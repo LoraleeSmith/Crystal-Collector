@@ -1,0 +1,11 @@
+.intro {border: solid black;}
+
+body {font-size: 15px; color:purple; width:100%;}
+
+.buttons { border: solid brown 5px; background-color:darkblue; color: white; text-align:center;}
+
+.lucky {color:gold; margin: 15px 20px; width: 40%; float: left;}
+
+.total {color: green; margin:15px 20px; width: 40%; float:right;}
+
+.tracker {border: black solid 3px; color: blue; margin: 20px; width:40%; float: right;}
